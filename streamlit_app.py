@@ -2,7 +2,7 @@ import streamlit as st
 from st_paywall import add_auth
 
 st.set_page_config(layout="wide")
-st.title("The Most Fantabulous SaaS Ever! 🚀")
+st.title("My Cool SaaS! 🚀")
 
 add_auth(required=True)
 
