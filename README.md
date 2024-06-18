@@ -8,6 +8,18 @@ Discover how to turn your Streamlit app into a lucrative **SaaS** platform! In t
 - `st-paywall` documentation: https://st-paywall.readthedocs.io/en/latest/
 - Deploy Streamlit app to Render: https://youtu.be/4SO3CUWPYf0
 
+
+## 🤓 Check Out My Excel Add-ins
+I've developed some handy Excel add-ins that you might find useful:
+
+- 📊 **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
+- 🤪 **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
+- 🛠️ **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
+  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
+  - ChatGPT integration for advanced data analysis
+  - And much more!
+
+
 ## 🤝 Get to Know Me & Stay Connected
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
